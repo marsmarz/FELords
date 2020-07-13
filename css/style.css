@@ -1,0 +1,53 @@
+body{
+    background-color: lightblue;
+}
+div{
+    padding: 25 px;
+    margin: 10 px;
+    background-color: aqua;
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+a{
+    color: red;
+}
+#lordart{
+    width: 65%;
+    text-align: center;
+    margin: center;
+}
+h1{
+    color: darkblue;
+    text-align: center;
+}
+
+.chibi{
+    width: 100%;
+}
+.titleimage{
+    text-align: center;
+}
+.lorddiv{
+    margin-right:40%;
+    margin-left:40%;
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align:center;
+}
+#marthsgames{
+    width: 50%;
+    text-align: center;
+}
+#marthtitle{
+    width: 33%;
+    text-align:center;
+}
+.stattable{
+    text-align: center;
+    margin: auto;
+    border-style: solid;
+    background-color: aquamarine;
+    border-color: aqua
+}
